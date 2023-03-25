@@ -4,6 +4,8 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
+import com.factoriaf5.rps.models.Player;
+
 public class PlayerTest {
 
     private Player player1;
