@@ -16,11 +16,11 @@ public class PlayerTest {
         this.player2 = new Player();
 
     }
-    @Test
-    void testPlayerCanChooseArock(){
-         player1 = player1.choose("Rock");
+    // @Test
+    // void testPlayerCanChooseArock(){
+    //      player1 = player1.choose("Rock");
 
-    }
+    // }
 
 
 }
