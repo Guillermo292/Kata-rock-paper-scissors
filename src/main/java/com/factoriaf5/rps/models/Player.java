@@ -25,14 +25,4 @@ public class Player {
 
 
 
-    // public Object choose(String string) {
-    //     if(string == "Rock"){
-    //         return new Rock();
-    //     } else if (string == "paper") {
-    //         return new Paper();
-    //     } else if (string == "scissors") {
-    //         return new Scissors();
-    //         return null;
-    //     }
-    // }
 
